@@ -16,15 +16,6 @@ A simple macOS utility to temporarily block your keyboard — perfect for cleani
 
 ## 📥 Installation
 
-### Option 1: Download Release (Recommended)
-
-1. Go to the [Releases](../../releases) page
-2. Download the latest `PawsOff.zip`
-3. Extract and drag `PawsOff.app` to your **Applications** folder
-4. **Important**: Right-click the app → **Open** → Click **Open** (required for first launch)
-
-### Option 2: Build from Source
-
 ```bash
 git clone https://github.com/YOUR_USERNAME/PawsOff.git
 cd PawsOff
